@@ -1,4 +1,4 @@
-package com.company.BattleRoyale.EnvironmentObject.Ammo;
+package com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.Ammo;
 
 public class LightAmmo extends Ammo{
 

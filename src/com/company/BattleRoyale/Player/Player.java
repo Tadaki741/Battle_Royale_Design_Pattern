@@ -1,10 +1,10 @@
 package com.company.BattleRoyale.Player;
 
-import com.company.BattleRoyale.EnvironmentObject.Ammo.Ammo;
-import com.company.BattleRoyale.EnvironmentObject.Ammo.LightAmmo;
-import com.company.BattleRoyale.EnvironmentObject.Ammo.SniperAmmo;
-import com.company.BattleRoyale.EnvironmentObject.Gun;
-import com.company.BattleRoyale.EnvironmentObject.Throwable.Throwable;
+import com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.Ammo.Ammo;
+import com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.Ammo.LightAmmo;
+import com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.Ammo.SniperAmmo;
+import com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.Gun.Gun;
+import com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.Throwable.Throwable;
 
 import java.util.ArrayList;
 

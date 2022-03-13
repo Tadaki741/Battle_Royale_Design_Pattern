@@ -1,4 +1,4 @@
-package com.company.BattleRoyale.EnvironmentObject.AssaultRifle;
+package com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.Gun.AssaultRifle;
 
 public class R301 extends AssaultRifle{
 

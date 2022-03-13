@@ -1,6 +1,6 @@
-package com.company.BattleRoyale.EnvironmentObject.AssaultRifle;
+package com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.Gun.AssaultRifle;
 
-import com.company.BattleRoyale.EnvironmentObject.Gun;
+import com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.Gun.Gun;
 
 
 public abstract class AssaultRifle extends Gun {

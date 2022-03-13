@@ -1,6 +1,6 @@
-package com.company.BattleRoyale.EnvironmentObject.Sniper;
+package com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.Gun.Sniper;
 
-import com.company.BattleRoyale.EnvironmentObject.Gun;
+import com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.Gun.Gun;
 
 public abstract class Sniper extends Gun {
 

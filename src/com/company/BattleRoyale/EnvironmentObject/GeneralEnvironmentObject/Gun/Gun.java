@@ -1,10 +1,12 @@
-package com.company.BattleRoyale.EnvironmentObject;
+package com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.Gun;
 
 
 /*
 General gun class including: Sniper, Shotgun, Assault Rifle, Heavy Machine Gun, Light Machine Gun, Pistol
  */
 
+
+import com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.PickupableObject;
 
 public abstract class Gun extends PickupableObject {
 

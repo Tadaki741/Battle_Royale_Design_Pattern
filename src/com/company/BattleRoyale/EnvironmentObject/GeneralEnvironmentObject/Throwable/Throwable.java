@@ -1,6 +1,6 @@
-package com.company.BattleRoyale.EnvironmentObject.Throwable;
+package com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.Throwable;
 
-import com.company.BattleRoyale.EnvironmentObject.PickupableObject;
+import com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.PickupableObject;
 
 public abstract class Throwable extends PickupableObject {
 

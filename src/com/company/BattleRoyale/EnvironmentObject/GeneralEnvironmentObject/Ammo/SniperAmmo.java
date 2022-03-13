@@ -1,6 +1,4 @@
-package com.company.BattleRoyale.EnvironmentObject.Ammo;
-
-import java.util.ArrayList;
+package com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.Ammo;
 
 public class SniperAmmo extends Ammo{
 

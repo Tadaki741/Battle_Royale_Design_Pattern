@@ -1,6 +1,6 @@
-package com.company.BattleRoyale.EnvironmentObject.Ammo;
+package com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.Ammo;
 
-import com.company.BattleRoyale.EnvironmentObject.PickupableObject;
+import com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.PickupableObject;
 
 public abstract class Ammo extends PickupableObject {
 

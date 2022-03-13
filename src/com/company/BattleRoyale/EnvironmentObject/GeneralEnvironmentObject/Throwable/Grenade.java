@@ -1,4 +1,4 @@
-package com.company.BattleRoyale.EnvironmentObject.Throwable;
+package com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.Throwable;
 
 public class Grenade extends Throwable{
 

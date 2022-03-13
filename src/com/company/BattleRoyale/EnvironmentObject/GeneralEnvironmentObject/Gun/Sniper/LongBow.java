@@ -1,4 +1,4 @@
-package com.company.BattleRoyale.EnvironmentObject.Sniper;
+package com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.Gun.Sniper;
 
 public class LongBow extends Sniper {
 

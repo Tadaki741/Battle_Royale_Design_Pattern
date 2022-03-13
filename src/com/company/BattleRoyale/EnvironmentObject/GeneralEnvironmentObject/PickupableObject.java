@@ -1,4 +1,4 @@
-package com.company.BattleRoyale.EnvironmentObject;
+package com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject;
 
 import com.company.BattleRoyale.Player.Player;
 

@@ -1,15 +1,14 @@
 package com.company;
 
-import com.company.BattleRoyale.EnvironmentObject.Ammo.LightAmmo;
-import com.company.BattleRoyale.EnvironmentObject.Ammo.SniperAmmo;
-import com.company.BattleRoyale.EnvironmentObject.AssaultRifle.HAVOC;
-import com.company.BattleRoyale.EnvironmentObject.AssaultRifle.R301;
-import com.company.BattleRoyale.EnvironmentObject.Gun;
-import com.company.BattleRoyale.EnvironmentObject.Sniper.Kraber;
-import com.company.BattleRoyale.EnvironmentObject.Sniper.LongBow;
-import com.company.BattleRoyale.EnvironmentObject.Sniper.Sentinel;
-import com.company.BattleRoyale.EnvironmentObject.Throwable.Grenade;
-import com.company.BattleRoyale.EnvironmentObject.Throwable.Molotov;
+import com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.Ammo.LightAmmo;
+import com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.Ammo.SniperAmmo;
+import com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.Gun.AssaultRifle.HAVOC;
+import com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.Gun.AssaultRifle.R301;
+import com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.Gun.Sniper.Kraber;
+import com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.Gun.Sniper.LongBow;
+import com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.Gun.Sniper.Sentinel;
+import com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.Throwable.Grenade;
+import com.company.BattleRoyale.EnvironmentObject.GeneralEnvironmentObject.Throwable.Molotov;
 import com.company.BattleRoyale.Player.Player;
 
 public class Main {
